@@ -73,3 +73,18 @@ npm install
 
 <h2>🎯 Run the Application</h2>
 <p>After starting both the frontend and backend, open <b>http://localhost:5173</b> in your browser.</p>
+
+
+
+Chat App Preview
+
+![Screenshot 2025-03-31 120642](https://github.com/user-attachments/assets/3bb640d9-8650-49f8-9e50-873876807233)
+
+
+![Screenshot 2025-03-31 121129](https://github.com/user-attachments/assets/9230dc68-d6af-4936-93d8-961f6e9d3e13)
+
+
+![Screenshot 2025-03-31 121151](https://github.com/user-attachments/assets/fe468330-a985-41d1-83fd-03fdc0d3085a)
+
+
+![Screenshot 2025-03-31 121202](https://github.com/user-attachments/assets/ddbec406-91c8-4848-9d57-c3d6466054a1)
